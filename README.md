@@ -148,3 +148,13 @@ No judgment. But **Blacksmithers is for people who want to understand the fire, 
 <p align="center">
   <em>He didn't know it was impossible, and so he did it.</em>
 </p>
+
+## License
+
+- **Code, snippets, executable blueprints** — Apache License 2.0 (`LICENSE`)
+- **Manifesto, the Seven Laws, prose, diagrams** — CC BY 4.0 (`LICENSE-DOCS`)
+
+Trademarks are licensed by neither. See
+[TRADEMARK.md](https://github.com/blacksmithers/openspec/blob/main/TRADEMARK.md).
+
+Contributions require a signed [CLA](CLA.md).
